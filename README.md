@@ -9,14 +9,14 @@ The dataset used in the training, testing, and validation of these models is ava
 https://data.mendeley.com/datasets/k7nvtgn2x6/3
 
 <br>
-To have an access of the raw dataset offline, it can be downloaded through the following links:
+To have an access of the raw dataset <b>offline</b>, it can be downloaded through the following links:
 
 Dataset A: https://data.mendeley.com/public-files/datasets/k7nvtgn2x6/files/9e3097d6-7252-4de1-9ff0-44cf67948409/file_downloaded
 
 Dataset B: https://data.mendeley.com/public-files/datasets/k7nvtgn2x6/files/71b97395-f23c-4f4c-aaad-01abba53b8ee/file_downloaded
 
 <br>
-To access the dataset online, follow this link:
+To access the dataset <b>online</b>, follow this link:
 https://www.dropbox.com/s/ypvbhkgt4sb40sy/dataset_b.zip?dl=0
 
 <b><i>Note that the dataset found in this link is already pre-augmented.</i></b>
