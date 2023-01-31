@@ -2,7 +2,7 @@
  SEGMENTATION AND CLASSIFICATION OF KIDNEY GLOMERULI USING DIFFERENT MACHINE LEARNING MODELS
 
 # Dataset Information
-The dataset used in this study was obtained from a paper by Bueno et al., 2022 titled "<i>Glomerulosclerosis identification in whole slide images using semantic segmentation</i>".
+The dataset used in this study was obtained from a paper by Bueno et al. (2022) entitled "<i>Glomerulosclerosis identification in whole slide images using semantic segmentation</i>".
 
 # Accessing the Dataset
 The dataset used in the training, testing, and validation of the models used in this study is available on the Mendeley Data website:
@@ -39,7 +39,7 @@ OS module
 
 Tensorflow
 
-<b>
+<br>
 
 <b> SqueezeNet: </b>
 
@@ -52,7 +52,7 @@ Numpy
 OS module
 
 Tensorflow
- <b>
+ <br>
 
 <b> VGG-16: </b>
 
