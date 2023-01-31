@@ -30,7 +30,6 @@ These are the libraries necessary to train the models
 <b> EfficientNet-B0: </b>
 
 Keras
-
 Livelossplot
 
 Numpy
