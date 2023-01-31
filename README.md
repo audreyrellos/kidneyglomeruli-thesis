@@ -1,5 +1,5 @@
 # About the Repo
-This is the Github repo for the segmentation and classification models used in the study titled <i>SEGMENTATION AND CLASSIFICATION OF KIDNEY GLOMERULI USING DIFFERENT MACHINE LEARNING MODELS </i>, by Rellos A., Villaflor F.J., and Yonzon R.S.
+This is the Github repo for the segmentation and classification models used in the study titled <i>SEGMENTATION AND CLASSIFICATION OF KIDNEY GLOMERULI USING DIFFERENT MACHINE LEARNING MODELS </i>by Rellos A., Villaflor F.J., and Yonzon R.S.
 
 # Dataset Information
 The dataset used in this study was obtained from a paper by Bueno et al. (2020) entitled "<i>Glomerulosclerosis identification in whole slide images using semantic segmentation</i>". (DOI: https://doi.org/10.1016/j.cmpb.2019.105273)
