@@ -25,7 +25,22 @@ The training data can be loaded into the model via a curl command
 These are the libraries necessary to train the models
 
 <b> EfficientNet-B0: </b>
+Keras
+Livelossplot
+Numpy
+OS module
+Tensorflow
 
 <b> SqueezeNet: </b>
+Keras
+Livelossplot
+Numpy
+OS module
+Tensorflow
 
 <b> VGG-16: </b>
+Keras
+Livelossplot
+Numpy
+OS module
+Tensorflow
