@@ -19,7 +19,7 @@ Dataset B: https://data.mendeley.com/public-files/datasets/k7nvtgn2x6/files/71b9
 To access the dataset online, follow this link:
 https://www.dropbox.com/s/ypvbhkgt4sb40sy/dataset_b.zip?dl=0
 
-"<b><i>Note that the dataset found in this link is already pre-augmented.</i></b>"
+<b><i>Note that the dataset found in this link is already pre-augmented.</i></b>
 
 # Loading the Dataset
 The training data can be loaded into the model via a curl command
