@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1eB3eqf0XwzUzaMmtyAj_S_I7wDoDK73p
 """
 
-# required libraries & datasets
+# required libraries & dataset
 
 !curl -L "https://www.dropbox.com/s/ypvbhkgt4sb40sy/dataset_b.zip?dl=0" > dataset_b.zip; unzip dataset_b.zip; rm dataset_b.zip
 !pip install livelossplot
