@@ -6,7 +6,7 @@ The dataset used in this study was obtained from a paper by Bueno et al., 2022 t
 
 # Accessing the Dataset
 The dataset used in the training, testing, and validation of these models is available on the Mendeley Data website:
-https://www.dropbox.com/s/ypvbhkgt4sb40sy/dataset_b.zip?dl=0
+https://data.mendeley.com/datasets/k7nvtgn2x6/3
 
 
 To access the raw dataset offline, it can be downloaded through the following links:
